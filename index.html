@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Student Registration</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <form action="insert.php" method="POST">
+    <h2>🎓 Student Registration</h2>
+
+    <label for="name">Full Name :</label>
+    <input type="text" id="name" name="name" placeholder="Enter full name" required>
+
+    <label for="branch">Branch :</label>
+    <input type="text" id="branch" name="branch" placeholder="e.g. Computer, Civil" required>
+
+    <label for="year">Year :</label>
+    <input type="number" id="year" name="year" placeholder="e.g. 1, 2, 3, 4" required>
+
+    <label for="rollno">Roll Number :</label>
+    <input type="text" id="rollno" name="rollno" placeholder="e.g. 21IT001" required>
+
+    <button type="submit">Submit Form</button>
+  </form>
+</body>
+</html>
