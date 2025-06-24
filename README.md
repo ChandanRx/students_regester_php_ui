@@ -23,7 +23,7 @@ A simple PHP & MySQL project to register student details.
 
 ![Screenshot (143)](https://github.com/user-attachments/assets/c5b35cbc-d20d-44c0-9971-9829dff339ee)
 
-- successfull page
+- Successfull Page
 
 ![Screenshot (144)](https://github.com/user-attachments/assets/cba3a9a2-400e-4eab-86c0-5827912ad0c0)
  
